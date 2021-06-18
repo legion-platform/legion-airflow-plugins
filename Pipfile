@@ -12,7 +12,7 @@ pydocstyle = ">=3.0.0"
 pytest = ">=4.0.2"
 pytest-mock = ">=1.10.4"
 pytest-cov = ">=2.7.1"
-apache-airflow = "==1.10.2"
+apache-airflow = "==1.10.15"
 # A bug in the airflow. Solution is https://github.com/puckel/docker-airflow/issues/395#issuecomment-511209282
 
 [requires]
